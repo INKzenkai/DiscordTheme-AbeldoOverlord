@@ -23,11 +23,11 @@
   --danger-color: #ffc117;
 
   /* CORES DE STATUS */
-  --online-color: #43b581;
-  --idle-color: #ffb300;
-  --dnd-color: #b89d04;
-  --streaming-color: #8e24aa;
-  --offline-color: #555555;
+  --online-color: #0bf089;
+  --idle-color: #ffffff;
+  --dnd-color: #ff0000;
+  --streaming-color: #500066;
+  --offline-color: #000000;
 
   /* IMAGEM DE FUNDO */
   --background-image: url("https://i.pinimg.com/736x/cd/4b/3b/cd4b3bd709b16cca4e0dacbff72cf430.jpg");
